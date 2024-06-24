@@ -3,6 +3,7 @@
     margin: 0;
     width: 0;
     height: 0;
+    color: #000;
 }
 .ReloadPrompt-toast {
     position: fixed;
@@ -16,6 +17,7 @@
     text-align: left;
     box-shadow: 3px 4px 5px 0 #8885;
     background-color: white;
+    color: #000;
 }
 .ReloadPrompt-toast-message {
     margin-bottom: 8px;
@@ -26,4 +28,5 @@
     margin-right: 5px;
     border-radius: 2px;
     padding: 3px 10px;
+    color: #000;
 }
