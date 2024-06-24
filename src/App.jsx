@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import './App.css'
-im
+import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
@@ -25,7 +24,7 @@ function App() {
   console.log(count);
 
   return (
-    <> //Equivalent to import Fragment from React;
+    <>
       <div className="container">
         <h1>Counter: {count}</h1>
         <hr />
